@@ -8,3 +8,4 @@
  
  Other than this we have use the concept of Confusion matrix. In the field of machine learning and specifically the problem of statistical classification, a confusion matrix, also known as an error matrix,[9] is a specific table layout that allows visualization of the performance of an algorithm, typically a supervised learning one (in unsupervised learning it is usually called a matching matrix)
 You will get more idea about it from https://en.wikipedia.org/wiki/Confusion_matrix
+**Thank you!!**
