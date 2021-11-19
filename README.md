@@ -5,4 +5,5 @@
 
 
  outoff which Random Forest Classifier has predicted more accurate followed by Decision Tree predicted 2nd best.
-  Other than this we have use the concept of Confusion matrix. In the field of machine learning and specifically the problem of statistical classification, a confusion matrix, also known as an error matrix,[9] is a specific table layout that allows visualization of the performance of an algorithm, typically a supervised learning one (in unsupervised learning it is usually called a matching matrix)
+ 
+ Other than this we have use the concept of Confusion matrix. In the field of machine learning and specifically the problem of statistical classification, a confusion matrix, also known as an error matrix,[9] is a specific table layout that allows visualization of the performance of an algorithm, typically a supervised learning one (in unsupervised learning it is usually called a matching matrix)
