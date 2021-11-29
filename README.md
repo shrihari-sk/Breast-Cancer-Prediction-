@@ -1,4 +1,4 @@
- Breast-Cancer-Prediction :- We have use three ML Algorithms in this project 
+ Breast-Cancer-Prediction :- I have use three ML Algorithms in this project 
   1. Logistic Regression 
   2. Decision Tree
   3. Random Forest Classifier 
